@@ -6,4 +6,10 @@ print("branch")
 print("main")
 print("gazi")
 
+<<<<<<< HEAD
 print(asdfasdf)
+=======
+print(gazi2)
+hjhgjhgj
+hgjhgjg
+>>>>>>> gazi1
