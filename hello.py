@@ -5,3 +5,7 @@ print("hello4")
 print("branch")
 print("main")
 print("gazi")
+
+print(gazi2)
+hjhgjhgj
+hgjhgjg
